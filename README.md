@@ -1,1 +1,3 @@
 # Personal-Financial-Project
+
+This project is motivated to help get my finances in order and to utilize my skills of SQL, Tableau, R and Excel to aid in determing cash flow, spending habits and basic financial metrics. The data pulled is from 3 financial institutions financial statements; I used MS Access to input the data and exported to Excel, then exported from Excel to SQL for data cleaning. Once the data was cleaned, further refinements to the data structure was made in Excel to aid in calculations. Specifically the amount column was separated into three distinct columns; income, expense and payment (which is an expense for me but lowers debt).
